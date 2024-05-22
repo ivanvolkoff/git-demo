@@ -1,1 +1,1 @@
-Example project for demo purposes.
+Example project for git demo purposes.
